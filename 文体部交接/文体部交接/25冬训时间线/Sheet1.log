@@ -1,0 +1,730 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.9.11)  19 SEP 2024 22:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1
+(d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:1: Text line contains an invalid character.
+l.1 ^^@
+       
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:2: Text line contains an invalid character.
+l.2 ^^@
+       %^^@ ^^@T^^@a^^@b^^@l^^@e^^@ ^^@g^^@e^^@n^^@e^^@r^^@a^^@t^^@e^^@d^^@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@
+       \^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Undefined control sequence.
+l.3 ^^@\^^@
+           b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ^^@\^^@b
+            ^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no b in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@
+               e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@
+                   g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@
+                       i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@
+                           n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@n^^@
+                               {^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@
+                                   t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@
+                                       a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@
+                                           b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@
+                                               l^^@e^^@}^^@[^^@h^^@t^^@b^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@
+                                                  e^^@}^^@[^^@h^^@t^^@b^^@p^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@
+                                                  }^^@[^^@h^^@t^^@b^^@p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@
+                                                  [^^@h^^@t^^@b^^@p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@i^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@
+                                                  h^^@t^^@b^^@p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@n^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@
+                                                  t^^@b^^@p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@{^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@
+                                                  b^^@p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@t^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@
+                                                  p^^@]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@a^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p^^@
+                                                  ]^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:3: Text line contains an invalid character.
+l.3 ...^^@b^^@l^^@e^^@}^^@[^^@h^^@t^^@b^^@p^^@]^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@
+        ^^@ ^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@
+            ^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@
+               \^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Undefined control sequence.
+l.4 ^^@ ^^@ ^^@\^^@
+                   c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@
+                       e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@
+                           n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@n^^@
+                               t^^@e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@n^^@t^^@
+                                   e^^@r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@n^^@t^^@e^^@
+                                       r^^@i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@
+                                           i^^@n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ^^@ ^^@ ^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@
+                                               n^^@g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ...^^@ ^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@
+                                                  g^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:4: Text line contains an invalid character.
+l.4 ...^^@\^^@c^^@e^^@n^^@t^^@e^^@r^^@i^^@n^^@g^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@
+        ^^@ ^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@
+            ^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@
+               \^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Undefined control sequence.
+l.5 ^^@ ^^@ ^^@\^^@
+                   c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@
+                       a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@
+                           p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@p^^@
+                               t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@p^^@t^^@
+                                   i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@p^^@t^^@i^^@
+                                       o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@
+                                           n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ^^@ ^^@ ^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@
+                                               {^^@A^^@d^^@d^^@ ^^@c^^@a^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@ ^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@
+                                                  A^^@d^^@d^^@ ^^@c^^@a^^@p^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no A in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@\^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@
+                                                  d^^@d^^@ ^^@c^^@a^^@p^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@
+                                                  d^^@ ^^@c^^@a^^@p^^@t^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@a^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@
+                                                   ^^@c^^@a^^@p^^@t^^@i^^@o^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@p^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@
+                                                  c^^@a^^@p^^@t^^@i^^@o^^@n^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@t^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@
+                                                  a^^@p^^@t^^@i^^@o^^@n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@i^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@
+                                                  p^^@t^^@i^^@o^^@n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@o^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p^^@
+                                                  t^^@i^^@o^^@n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@n^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p^^@t^^@
+                                                  i^^@o^^@n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@{^^@A^^@d^^@d^^@ ^^@c^^@a^^@p^^@t^^@i^^@
+                                                  o^^@n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@A^^@d^^@d^^@ ^^@c^^@a^^@p^^@t^^@i^^@o^^@
+                                                  n^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@d^^@d^^@ ^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:5: Text line contains an invalid character.
+l.5 ...^^@d^^@ ^^@c^^@a^^@p^^@t^^@i^^@o^^@n^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@
+        ^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@
+            ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@
+                ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@
+                    ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@
+                       \^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Undefined control sequence.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@
+                           b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@b^^@
+                               e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@
+                                   g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@
+                                       i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@
+                                           n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ^^@ ^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@
+                                               {^^@t^^@a^^@b^^@u^^@l^^@a^^@r...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@ ^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@
+                                                  t^^@a^^@b^^@u^^@l^^@a^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@ ^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@
+                                                  a^^@b^^@u^^@l^^@a^^@r^^@}^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@ ^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@
+                                                  b^^@u^^@l^^@a^^@r^^@}^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@
+                                                  u^^@l^^@a^^@r^^@}^^@{^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no u in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@
+                                                  l^^@a^^@r^^@}^^@{^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@e^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@
+                                                  a^^@r^^@}^^@{^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@g^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@
+                                                  r^^@}^^@{^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@i^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r^^@
+                                                  }^^@{^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@n^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r^^@}^^@
+                                                  {^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@{^^@t^^@a^^@b^^@u^^@l^^@a^^@r^^@}^^@{^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@t^^@a^^@b^^@u^^@l^^@a^^@r^^@}^^@{^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@a^^@b^^@u^^@l^^@a^^@r^^@}^^@{^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@b^^@u^^@l^^@a^^@r^^@}^^@{^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@u^^@l^^@a^^@r^^@}^^@{^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@l^^@a^^@r^^@}^^@{^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@a^^@r^^@}^^@{^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@r^^@}^^@{^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@}^^@{^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@{^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@c^^@|^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@c^^@|^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@c^^@|^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@c^^@|^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@c^^@|^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  c^^@|^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@
+                                                  |^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no | in font nullfont!
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:6: Text line contains an invalid character.
+l.6 ...^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@c^^@|^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7: Text line contains an invalid character.
+l.7 ^^@
+        ^^@ ^^@ ^^@ ^^@\^^@t^^@o^^@p^^@r^^@u^^@l^^@e^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7: Text line contains an invalid character.
+l.7 ^^@ ^^@
+            ^^@ ^^@ ^^@\^^@t^^@o^^@p^^@r^^@u^^@l^^@e^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7: Text line contains an invalid character.
+l.7 ^^@ ^^@ ^^@
+                ^^@ ^^@\^^@t^^@o^^@p^^@r^^@u^^@l^^@e^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7: Text line contains an invalid character.
+l.7 ^^@ ^^@ ^^@ ^^@
+                    ^^@\^^@t^^@o^^@p^^@r^^@u^^@l^^@e^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7: Text line contains an invalid character.
+l.7 ^^@ ^^@ ^^@ ^^@ ^^@
+                       \^^@t^^@o^^@p^^@r^^@u^^@l^^@e^^@
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 17 strings out of 477932
+ 665 string characters out of 5837450
+ 1849382 words of memory out of 5000000
+ 20326 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 13i,0n,12p,210b,14s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+d:/HuaweiMoveData/Users/HUAWEI/Desktop/车协/文体部交接/文体部交接/25冬训时间线/Sheet1.tex:7:  ==> Fatal error occurred, no output PDF file produced!

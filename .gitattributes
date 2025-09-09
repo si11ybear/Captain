@@ -1,0 +1,29 @@
+# 对所有文本文件自动检测并统一换行符为 LF
+* text=auto
+
+# 明确指定文本文件在仓库中存储时使用 LF 换行符
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+# ... 可以根据需要添加其他文本文件扩展名，如 .java, .js, .css, .html, .xml 等
+
+# 对于必须在 Windows 上保留 CRLF 的文件类型（如批处理文件、PowerShell 脚本），可以例外处理
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# 将以下扩展名标记为二进制文件，防止 Git 修改它们
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.bmp binary
+*.tiff binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.jar binary
+*.war binary
+*.ear binary
+# ... 可以添加其他二进制文件扩展名

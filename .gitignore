@@ -1,0 +1,62 @@
+# 忽略 LaTeX 编译生成的文件
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+
+# 忽略 Python 相关的缓存和虚拟环境
+__pycache__/
+*.py[cod]
+*$py.class
+.Python/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 忽略虚拟环境目录（通常名为 venv, env, .venv 等）
+venv/
+env/
+.venv/
+
+# 忽略 IDE 和编辑器配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略系统特定文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 忽略测试和覆盖率输出
+.coverage
+.pytest_cache/
+htmlcov/
+.mypy_cache/
